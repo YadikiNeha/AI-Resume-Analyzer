@@ -1,0 +1,37 @@
+📄 Job Description:
+We are looking for a passionate and skilled Software Developer to join our growing team at TechNova Solutions Pvt. Ltd. The ideal candidate will have strong experience in full-stack development and will be responsible for designing, coding, testing, and deploying scalable applications.
+
+🔧 Responsibilities:
+Write clean, maintainable, and efficient code
+
+Collaborate with cross-functional teams to define, design, and ship new features
+
+Maintain and improve the performance of existing software
+
+Troubleshoot, debug, and upgrade existing systems
+
+Follow best practices for software development, including code reviews and documentation
+
+💡 Key Skills Required:
+Proficiency in Python, Java, or JavaScript
+
+Strong knowledge of HTML, CSS, React.js, and Node.js
+
+Experience with RESTful APIs, SQL/NoSQL databases
+
+Familiarity with Git, Agile/Scrum methodologies
+
+Understanding of OOP concepts and software design patterns
+
+🎓 Qualifications:
+Bachelor's degree in Computer Science, Engineering, or related field
+
+0–2 years of experience in software development (freshers can apply)
+
+Strong analytical and problem-solving skills
+
+Excellent communication and teamwork abilities
+
+📍 Location: Bengaluru, India
+🕒 Job Type: Full-Time
+💰 Salary: ₹4–6 LPA (Based on experience)
